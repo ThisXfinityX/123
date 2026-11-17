@@ -1,0 +1,6 @@
+{
+  "name": "Python 互動教室",
+  "description": "從零開始的互動式 Python 程式設計教學平台，內建即時執行環境、逐行記憶體視覺化追蹤與實作練習挑戰。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
